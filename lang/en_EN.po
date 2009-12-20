@@ -1,0 +1,351 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: Journalist/comments.php:14
+msgid "%s Trackbacks/Pingbacks"
+msgstr ""
+
+#. Text in function
+#: Journalist/archive.php:58
+#: Journalist/search.php:32
+#: Journalist/index.php:33
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#. Text in function
+#: Journalist/comments.php:81
+#: Journalist/comments.php:84
+msgid "(required)"
+msgstr ""
+
+#. Text in function
+#: Journalist/comments.php:91
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr ""
+
+#. Text in echo
+#: Journalist/single.php:33
+#: Journalist/page.php:29
+#: Journalist/archive.php:53
+#: Journalist/search.php:38
+#: Journalist/404.php:6
+#: Journalist/index.php:28
+msgid "Apologies, but we were unable to find what you were looking for. Perhaps searching will help."
+msgstr ""
+
+#. Text in function
+#: Journalist/archive.php:8
+msgid "Archive for the &#8216;%s&#8217; Category"
+msgstr ""
+
+#. Text in function
+#: Journalist/archive.php:11
+msgid "Archive for the &#8216;%s&#8217; tag"
+msgstr ""
+
+#. Text in echo
+#: Journalist/archives.php:11
+#: Journalist/sidebar.php:29
+msgid "Archives"
+msgstr ""
+
+#. Text in echo
+#: Journalist/archive.php:23
+msgid "Author Archive"
+msgstr ""
+
+#. Text in echo
+#: Journalist/archives.php:11
+#: Journalist/archive.php:26
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in echo
+#: Journalist/sidebar.php:24
+msgid "Blogroll"
+msgstr ""
+
+#. Text in echo
+#: Journalist/sidebar.php:34
+msgid "Categories"
+msgstr ""
+
+#. Text in echo
+#: Journalist/sidebar.php:18
+msgid "Click to search archives"
+msgstr ""
+
+#. Text in echo
+#: Journalist/comments.php:51
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: Journalist/single.php:15
+#: Journalist/page.php:16
+#: Journalist/archive.php:40
+#: Journalist/search.php:19
+#: Journalist/functions.php:74
+#: Journalist/index.php:15
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: Journalist/sidebar.php:17
+msgid "Enter keyword to search"
+msgstr ""
+
+#. Text in function
+#: Journalist/single.php:16
+#: Journalist/page.php:17
+#: Journalist/archive.php:14
+#: Journalist/archive.php:41
+#: Journalist/search.php:20
+#: Journalist/index.php:16
+msgid "F jS, Y"
+msgstr ""
+
+#. Text in function
+#: Journalist/archive.php:17
+msgid "F, Y"
+msgstr ""
+
+#. Text in function
+#: Journalist/comments.php:62
+msgid "Leave a Reply"
+msgstr ""
+
+#. Text in function
+#: Journalist/comments.php:62
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Text in echo
+#: Journalist/links.php:11
+msgid "Links:"
+msgstr ""
+
+#. Text in echo
+#: Journalist/comments.php:76
+msgid "Log out &raquo;"
+msgstr ""
+
+#. Text in echo
+#: Journalist/comments.php:76
+msgid "Log out of this account"
+msgstr ""
+
+#. Text in function
+#: Journalist/comments.php:76
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr ""
+
+#. Text in echo
+#: Journalist/comments.php:84
+msgid "Mail (will not be published)"
+msgstr ""
+
+#. Text in echo
+#: Journalist/archives.php:17
+msgid "Monthly:"
+msgstr ""
+
+#. Text in echo
+#: Journalist/comments.php:81
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: Journalist/archive.php:59
+#: Journalist/search.php:33
+#: Journalist/index.php:34
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#. Text in echo
+#: Journalist/search.php:36
+msgid "No posts found."
+msgstr ""
+
+#. Text in echo
+#: Journalist/404.php:4
+msgid "Not Found"
+msgstr ""
+
+#. Text in echo
+#: Journalist/sidebar.php:5
+msgid "Pages"
+msgstr ""
+
+#. Text in function
+#: Journalist/comments.php:1
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#. Text in function
+#: Journalist/single.php:19
+#: Journalist/page.php:20
+#: Journalist/archive.php:44
+#: Journalist/search.php:23
+#: Journalist/index.php:19
+msgid "Posted in %s"
+msgstr ""
+
+#. Text in function
+#: Journalist/single.php:10
+#: Journalist/page.php:10
+#: Journalist/archive.php:35
+#: Journalist/search.php:14
+#: Journalist/index.php:10
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#. Text in echo
+#: Journalist/sidebar.php:11
+msgid "Search"
+msgstr ""
+
+#. Text in echo
+#: Journalist/search.php:6
+msgid "Search Results"
+msgstr ""
+
+#. Text in echo
+#: Journalist/comments.php:95
+msgid "Submit Comment"
+msgstr ""
+
+#. Text in function
+#: Journalist/comments.php:24
+msgid "Subscribe comments with RSS."
+msgstr ""
+
+#. Text in function
+#: Journalist/single.php:20
+#: Journalist/page.php:21
+#: Journalist/archive.php:45
+#: Journalist/search.php:24
+#: Journalist/index.php:20
+msgid "Tags:"
+msgstr ""
+
+#. Text in echo
+#: Journalist/sidebar.php:52
+msgid "Themes"
+msgstr ""
+
+#. Text in echo
+#: Journalist/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#. Text in echo
+#: Journalist/archives.php:22
+msgid "Topic:"
+msgstr ""
+
+#. Text in echo
+#: Journalist/comments.php:26
+msgid "TrackBack URL."
+msgstr ""
+
+#. Text in echo
+#: Journalist/comments.php:87
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: Journalist/single.php:15
+#: Journalist/page.php:16
+#: Journalist/archive.php:40
+#: Journalist/search.php:19
+#: Journalist/index.php:15
+msgid "Written by %s"
+msgstr ""
+
+#. Text in function
+#: Journalist/archive.php:20
+msgid "Y"
+msgstr ""
+
+#. Text in function
+#: Journalist/comments.php:69
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#. Text in echo
+#: Journalist/functions.php:68
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: Journalist/single.php:16
+#: Journalist/page.php:17
+#: Journalist/archive.php:41
+#: Journalist/search.php:20
+#: Journalist/functions.php:74
+#: Journalist/index.php:16
+msgid "at"
+msgstr ""
+
+#. Text in function
+#: Journalist/single.php:16
+#: Journalist/page.php:17
+#: Journalist/archive.php:41
+#: Journalist/search.php:20
+#: Journalist/index.php:16
+msgid "g:i a"
+msgstr ""
+
+#. Text in function
+#: Journalist/functions.php:74
+msgid "j M y"
+msgstr ""
+
+#. Text in echo
+#: Journalist/sidebar.php:18
+msgid "search"
+msgstr ""
+
+#. Text in echo
+#: Journalist/sidebar.php:12
+msgid "search site archives"
+msgstr ""
+
+#. Text in echo
+#: Journalist/comments.php:22
+msgid "to"
+msgstr ""
+
+#. Text in function
+#: Journalist/single.php:7
+#: Journalist/page.php:7
+#: Journalist/archive.php:32
+#: Journalist/search.php:11
+#: Journalist/comments.php:22
+#: Journalist/index.php:7
+msgid "with % comments"
+msgstr ""
+
+#. Text in function
+#: Journalist/single.php:7
+#: Journalist/page.php:7
+#: Journalist/archive.php:32
+#: Journalist/search.php:11
+#: Journalist/comments.php:22
+#: Journalist/index.php:7
+msgid "with one comment"
+msgstr ""
+
+#. Text in function
+#: Journalist/single.php:7
+#: Journalist/page.php:7
+#: Journalist/archive.php:32
+#: Journalist/search.php:11
+#: Journalist/comments.php:22
+#: Journalist/index.php:7
+msgid "without comments"
+msgstr ""
