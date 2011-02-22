@@ -37,7 +37,9 @@ border: none;
 }
 
 #container {
-width:911px; /* this has nothing to do with the '911' event */
+width:90%; 
+max-width:1200px;
+min-width:911px; /* this has nothing to do with the '911' event */
 margin:0 auto;
 position:relative;
 }
@@ -46,7 +48,8 @@ position:relative;
 font-size:30px;
 font-weight:normal;
 letter-spacing:-1px;
-width:600px;
+width:66%
+min-width:600px;
 padding:32px 0 25px 0;
 }
 
@@ -79,7 +82,9 @@ background:url(images/bubble_left.gif) no-repeat top left;
 
 #content {
 float:left;
-width:700px;
+width:70%;
+max-width:900px;
+min-width:600px;
 }
 
 #content h2 {
@@ -197,19 +202,22 @@ border-top:#bbb 1px solid;
 float:left;
 padding:0 15px 0 0;
 border-right:#bbb 1px solid;
-width:200px;
+width:21%;
+min-width:200px;
 }
 
 .tags {
 float:left;
 padding:0 0 0 15px;
-width:440px;
+width:220px;
 }
 
 #sidebar {
 font-size:12px;
 float:right;
-width:180px;
+width:25%;
+max-width:316;
+min-width:240px;
 border-left:#999 1px solid;
 padding:0 0 20px 15px;
 margin:0 0 20px 0;
