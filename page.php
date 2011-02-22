@@ -17,10 +17,6 @@
     <p><?php printf(__('Written by %s', 'journalist'), the_author('', false));?> <span class="edit"><?php edit_post_link(__('Edit', 'journalist') );?></span></p>
     <p><?php the_time(__('F jS, Y', 'journalist'));?> <?php _e("at", 'journalist');?> <?php the_time(__('g:i a', 'journalist'));?></p>
 </div>	
-<div class="tags">
-    <p><?php printf(__('Posted in %s', 'journalist'), get_the_category_list(','));?></p>
-       <?php the_tags( '<p>' . __('Tags:', 'journalist') . ' ', ', ', '</p>'); ?>
-</div>
 </div>
 </div><!-- END .hentry -->
 
