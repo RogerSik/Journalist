@@ -17,7 +17,7 @@
 <div class="meta group">
 <div class="signature">
     <p><?php printf(__('Written by %s', 'journalist'), the_author('', false));?> <span class="edit"><?php edit_post_link(__('Edit', 'journalist') );?></span></p>
-    <p><?php the_time(__('F jS, Y', 'journalist'));?> <?php _e("at", 'journalist');?> <?php the_time(__('g:i a', 'journalist'));?></p>
+    <p><?php echo the_date();?> <?php _e("at", 'journalist');?> <?php the_time();?></p>
 </div>	
 <div class="tags">
     <p><?php printf(__('Posted in %s', 'journalist'), get_the_category_list(','));?></p>

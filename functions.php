@@ -71,7 +71,7 @@ function journalist_comment($comment, $args, $depth) {
     <div class="comment_author">
         <div class="comment_author_gravatar"><?php echo get_avatar($comment,$size='32',$default='<path_to_url>');?></div>
 		<p><strong><?php comment_author_link() ?></strong></p>
-		<p><small><?php comment_date(__('j M y', 'journalist')) ;?> <?php _e('at', 'journalist'); ?> <a href="#comment-<?php comment_ID() ?>"><?php comment_time() ?></a> <?php edit_comment_link(__('Edit', 'journalist')); ?></small></p>
+		<p><small><?php comment_date() ;?> <?php _e('at', 'journalist'); ?> <a href="#comment-<?php comment_ID() ?>"><?php comment_time() ?></a> <?php edit_comment_link(__('Edit', 'journalist')); ?></small></p>
     </div>
 	<div class="comment_text">
 		<?php comment_text() ?>
