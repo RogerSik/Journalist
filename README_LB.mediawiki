@@ -1,0 +1,16 @@
+<table>
+	<tr>
+		<td>Versioun</td>
+		<td>&Auml;nnerungen
+</td>
+	</tr>
+	<tr>
+		<td>2.1</td>
+		<td><li>Lëtzebuergesch als Sprooch bäigesat.
+</li></td>
+	</tr>
+	<tr>
+		<td>2.0</td>
+		<td><li>Keen Support fir Wordpress < 2.7</li><li>Track-/Pingbacks ginn iwwert den Kommentarer gelëscht.</li><li>Track-/Pingbacks ginn net als Kommentarer gehandhaabt.</li><li>Funktioun fir verschachtelt Kommentar implementéiert.</li><li>Kommentarer kennen ob méi Säiten groupéiert ginn.</li><li>Firefox Feeler mat < li >, < ul > & < ol > sinn behuewen ginn.</li><li>Biller déi zentréiert sollen sinn, ginn och lo sou ugewisen.</li></td>
+	</tr>
+</table>
