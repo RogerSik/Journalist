@@ -1,3 +1,15 @@
+<center>For <strong>English</strong> see <a href="http://yoschi.cc/journalist/en/">here</a></center>
+<a href="http://demo.yoschi.cc/wordpress/index.php?wptheme=Journalist"><img src="http://yoschi.cc/wp-content/uploads/journalist.jpg" alt="journalist" title="journalist" width="500" height="300" class="aligncenter size-full wp-image-1897" /></a>
+
+Journalist ass een flotten an einfach gehalen Theme fir Wordpress.
+
+Vu, dass den Theme just am Däitschen virhanden wor hunn ech en ob Däitsch iwwersat an den Prometheus en ob Lëtzebuergesch.
+
+Well en Lucain E. Marin den Theme bëssen vernoléissegt huet an ech mech dozou decidéiert en weider ze entwéckelen.
+
+<a href="http://files.yoschi.cc/journalist.zip">Download</a>
+
+
 <table>
 	<tr>
 		<td>Versioun</td>
