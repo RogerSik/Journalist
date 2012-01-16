@@ -1,0 +1,20 @@
+Journalist is a simple and nice WordPress Theme.
+
+As it was only available in English, I translated it in German and improved it.
+
+Because Lucain E. Marin neglected his Theme and, contacting him didn’t help either, I decided to continue it.
+
+<table>
+	<tr>
+		<td>Version</td>
+		<td>Changes</td>
+	</tr>
+	<tr>
+		<td>2.1 (20.12.09)</td>
+		<td><li>Luxembourgish has been added.</li><li>Simplified translation.</li><li>Obsolete (WordPress) PHP requests updated.</li><li>Sticky Post Support</li><li>Automatic slogan, the black row at the on the right, fade-out if not used.</li></td>
+	</tr>
+	<tr>
+		<td>2.0</td>
+		<td><li>None Support for < Wordpress 2.7</li><li>Track-/Pingbacks will be shown above comments as a list.</li><li>Track-/Pingbacks will not be considered as comments.</li><li>Feature for nested comments are available.</li><li>Comments can be grouped into several sites.</li><li>Firefox bugs with < li >, < ul >, < ol > have been fixed.</li><li>Fixed: Centered pictures with description are now displayed centered.</li></td>
+	</tr>
+</table>

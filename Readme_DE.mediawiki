@@ -1,0 +1,32 @@
+Journalist ist ein simples und schickes WordPress Theme.
+
+Da es auf Englisch war habe ich es übersetzt und verbessert.
+
+Weil Lucain E. Marin sein Theme vernachlässigt hat und eine Kontaktaufnahme auch nichts half, habe ich beschlossen die Arbeit am Theme weiterzuführen.
+
+<table>
+	<tr>
+		<td>Version</td>
+		<td>&Auml;nderungen</td>
+	</tr>
+	<tr>
+		<td>2.1 (20.12.09)</td>
+		<td><li>Luxemburgische Übersetzung hinzugefügt.</li><li>Vereinfachtes Übersetzen.</li><li>Veraltete (WordPress) PHP Abfragen aktualisiert.</li><li>Artikel können nun Sticky gemacht werden.</li><li>Automatische Slogan, diese schwarze Zeile oben rechts, Ausblendung wenn es nicht genutzt wird.</li></td>
+	</tr>
+	<tr>
+		<td>2.0</td>
+		<td><li>Unterstuezung fuer aelteren WordPress Versionen als 2.7 entfaellt.</li><li>Track-/Pingbacks werden als Liste vor den Kommentaren angezeigt.</li><li>Track-/Pingbacks werden nicht mehr als Kommentar gezaehlt.</li><li>Verschachtelte Kommentare sind nun m&ouml;glich.</li><li>Kommentare koennen nun in mehreren Seiten gegliedert werden.</li><li>Firefox Bug mit < li >, < ul >, < ol > wurde behoben.</li><li>Fixed: Zentrierte Bilder mit Bildbeschreibung werden nun auch zentriert.</li></td>
+	</tr>
+	<tr>
+		<td>1.10</td>
+		<td><li>Verwendet nun Po Dateien f&uuml;r die Lokalisierung.</li></td>
+	</tr>
+	<tr>
+		<td>1.9 DE</td>
+		<td><li>Auf Deutsch &uuml;bersetzt.</li></td>
+	</tr>
+	<tr>
+		<td>1.9 EN</td>
+		<td></td>
+	</tr>
+</table>
